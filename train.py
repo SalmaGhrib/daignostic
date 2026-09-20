@@ -4,7 +4,7 @@ import shutil
 import tempfile
 import zipfile
 from pathlib import Path
-
+# Test du déclenchement GitHub Actions
 import joblib
 import numpy as np
 from PIL import Image
